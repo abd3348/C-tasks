@@ -24,10 +24,14 @@
               "RelativeDocumentMoniker": "task1\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\C#\\C-tasks\\task1\\task1\\Program.cs",
               "RelativeToolTip": "task1\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-06T11:22:12.77Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
